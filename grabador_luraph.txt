@@ -1,0 +1,134 @@
+==P2D==
+GetLength	n:190.6041259765625
+GetPositionOnCurve|0.4285714328289032	u:0.36781936883926392,0,0.052424903959035873,0
+GetPositionOnCurve|0.20000000298023224	u:0.040925931185483932,0,0.099606737494468689,0
+GetPositionOnCurve|0.25	u:0.090277776122093201,0,0.090941011905670166,0
+GetPositionOnCurve|0.38461539149284363	u:0.28481811285018921,0,0.063002794981002808,0
+GetTangentOnCurve|0.20000000298023224	v:93.200004577636719,-14.600000381469727
+GetTangentOnCurve|0.20000000298023224	v:93.200004577636719,-14.600000381469727
+GetTangentOnCurve|0.2142857164144516	v:100.85714721679688,-15.071428298950195
+GetPositionOnCurveArcLength|0.1666666716337204	u:0.10620195418596268,0,0.088367223739624023,0
+GetPositionOnCurveArcLength|0.80000001192092896	u:0.38621705770492554,0,0.0014671663520857692,0
+GetTangentOnCurveArcLength|0.3333333432674408	v:182.32969665527344,-20.08746337890625
+GetTangentOnCurveArcLength|0.53846156597137451	v:232.36293029785156,-23.167865753173828
+==END==
+==P2DGUI==
+GetLength	n:190.6041259765625
+GetPositionOnCurve|0.4285714328289032	u:0.36781936883926392,0,0.05242491140961647,0
+GetPositionOnCurve|0.20000000298023224	u:0.040925927460193634,0,0.09960675984621048,0
+GetPositionOnCurve|0.25	u:0.090277776122093201,0,0.090941011905670166,0
+GetPositionOnCurve|0.38461539149284363	u:0.28481811285018921,0,0.063002809882164001,0
+GetTangentOnCurve|0.20000000298023224	v:93.200004577636719,-14.600000381469727
+GetTangentOnCurve|0.20000000298023224	v:93.200004577636719,-14.600000381469727
+GetTangentOnCurve|0.2142857164144516	v:100.85714721679688,-15.071428298950195
+GetPositionOnCurveArcLength|0.1666666716337204	u:0.10620194673538208,0,0.088367201387882233,0
+GetPositionOnCurveArcLength|0.80000001192092896	u:0.38621705770492554,0,0.0014671583194285631,0
+GetTangentOnCurveArcLength|0.3333333432674408	v:182.32969665527344,-20.08746337890625
+GetTangentOnCurveArcLength|0.53846156597137451	v:232.36293029785156,-23.167865753173828
+==ENDGUI==
+==ENV==
+executor	Delta
+date	2026-09-29 02:13:50
+RobloxLocaleId	ERR
+LS_RobloxLocaleId	en-us
+env_meta	protected:The metatable is locked
+g	game	nil
+g	workspace	nil
+g	script	userdata	Instance	mt:protected:The metatable is locked
+g	Instance	nil
+g	Enum	nil
+g	shared	nil
+g	plugin	nil
+g	Vector2	nil
+g	Vector3	nil
+g	Vector2int16	nil
+g	Vector3int16	nil
+g	UDim	nil
+g	UDim2	nil
+g	CFrame	nil
+g	Color3	nil
+g	ColorSequence	nil
+g	NumberSequence	nil
+g	NumberRange	nil
+g	Rect	nil
+g	Region3	nil
+g	Faces	nil
+g	Axises	nil
+g	PhysicalProperties	nil
+g	TweenInfo	nil
+g	Ray	nil
+g	Random	nil
+g	DateTime	nil
+g	Font	nil
+g	Path2DControlPoint	nil
+g	string	nil
+g	table	nil
+g	math	nil
+g	os	nil
+g	coroutine	nil
+g	task	nil
+g	bit32	nil
+g	utf8	nil
+g	buffer	nil
+g	debug	nil
+g	io	nil
+g	_G	nil
+g	type	nil
+g	typeof	nil
+g	tostring	nil
+g	tonumber	nil
+g	pcall	nil
+g	xpcall	nil
+g	select	nil
+g	unpack	nil
+g	rawget	nil
+g	rawset	nil
+g	rawequal	nil
+g	rawlen	nil
+g	setmetatable	nil
+g	getmetatable	nil
+g	assert	nil
+g	error	nil
+g	ipairs	nil
+g	pairs	nil
+g	next	nil
+g	require	nil
+g	getfenv	nil
+g	setfenv	nil
+g	loadstring	nil
+g	gcinfo	nil
+g	collectgarbage	nil
+g	newproxy	nil
+g	print	nil
+g	warn	nil
+g	spawn	nil
+g	wait	nil
+g	delay	nil
+g	tick	nil
+g	time	nil
+g	elapsedTime	nil
+g	settings	nil
+g	UserSettings	nil
+g	Drawing	nil
+g	getgenv	nil
+g	getrenv	nil
+g	writefile	nil
+g	readfile	nil
+g	appendfile	nil
+g	listfiles	nil
+g	isfile	nil
+g	isfolder	nil
+g	makefolder	nil
+g	setclipboard	nil
+g	getclipboard	nil
+g	identifyexecutor	nil
+g	syn	nil
+g	fluxus	nil
+g	delta	nil
+g	checkcaller	nil
+g	hookfunction	nil
+g	getconnections	nil
+g	getreg	nil
+env_globals	script
+env_globals_count	1
+==ENDENV==
